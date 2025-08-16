@@ -18,7 +18,7 @@ Provide actionable insights to optimize energy usage and enhance sustainability.
 
 🔹 Data
 
-Source: Mendeley Data – East Melbourne WWTP
+**Data Source:** [East Melbourne WWTP Dataset - Mendeley Data](https://data.mendeley.com/datasets/pprkvz3vbd/1)
 
 Years Covered: 2014–2019
 
@@ -70,7 +70,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Keras, TensorFlow, Scikeras, Matplotlib,
 
 🔹 References / Resources
 
-Wastewater Treatment Plant operational data (East Melbourne, 2014–2019) – Mendeley Data
+Wastewater Treatment Plant operational data (East Melbourne, 2014–2019) – https://data.mendeley.com/datasets/pprkvz3vbd/1
 
 SHAP documentation: https://github.com/slundberg/shap
 
