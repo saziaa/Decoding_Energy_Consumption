@@ -1,8 +1,8 @@
-## Decoding Energy Consumption: ML Predictions & Model Comparison in East Melbourne WWTP
+## **Decoding Energy Consumption: ML Predictions & Model Comparison in East Melbourne WWTP**
 
 Repository: GitHub Link
 
-📌 Project Overview
+📌 ## Project Overview
 
 Wastewater treatment plants (WWTPs) are essential for environmental sustainability, but their energy-intensive operations pose cost and carbon emission challenges. This project focuses on the East Melbourne Wastewater Treatment Plant, aiming to predict energy consumption (EC) based on organic, hydraulic, and climatic parameters and compare the performance of various machine learning models.
 
