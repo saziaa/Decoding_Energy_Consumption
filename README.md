@@ -2,11 +2,11 @@
 
 Repository: GitHub Link
 
-📌 ## Project Overview
+📌  **Project Overview**
 
 Wastewater treatment plants (WWTPs) are essential for environmental sustainability, but their energy-intensive operations pose cost and carbon emission challenges. This project focuses on the East Melbourne Wastewater Treatment Plant, aiming to predict energy consumption (EC) based on organic, hydraulic, and climatic parameters and compare the performance of various machine learning models.
 
-🔹 Objectives
+🔹 **Objectives**
 
 Identify key factors influencing energy consumption in WWTP operations.
 
@@ -16,7 +16,7 @@ Evaluate model robustness, efficiency, and predictive accuracy using historical 
 
 Provide actionable insights to optimize energy usage and enhance sustainability.
 
-🔹 Data
+🔹 **Data**
 
 **Data Source:** [East Melbourne WWTP Dataset - Mendeley Data](https://data.mendeley.com/datasets/pprkvz3vbd/1)
 
@@ -26,7 +26,7 @@ Features: Organic parameters, hydraulic flow, climatic factors, and energy consu
 
 Target Variable: Daily Electrical Conductivity (EC)
 
-🔹 Methodology
+🔹 **Methodology**
 
 Feature Selection:
 
@@ -50,7 +50,7 @@ Metrics: RMSE, MAE, MAPE, Median Absolute Deviation (MAD)
 
 Residual and confidence interval analyses
 
-🔹 Key Findings
+🔹 **Key Findings**
 
 Random Forest is the most effective model for predicting EC, followed by Gradient Boosting, Ridge Regression, and LSTM.
 
@@ -60,7 +60,7 @@ Important predictive features: Month, Total Nitrogen, COD, Average Inflow, Avera
 
 Ensemble methods outperform traditional and deep learning approaches in this dataset.
 
-🔹 Tools & Libraries
+🔹 **Tools & Libraries**
 
 Language: Python 3.9
 
@@ -68,10 +68,6 @@ Platform: Google Colab
 
 Libraries: Pandas, NumPy, Scikit-learn, Keras, TensorFlow, Scikeras, Matplotlib, Seaborn
 
-🔹 References / Resources
 
-Wastewater Treatment Plant operational data (East Melbourne, 2014–2019) – https://data.mendeley.com/datasets/pprkvz3vbd/1
-
-SHAP documentation: https://github.com/slundberg/shap
 
 Scikit-learn documentation: https://scikit-learn.org
