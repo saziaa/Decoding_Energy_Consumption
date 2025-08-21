@@ -69,5 +69,3 @@ Platform: Google Colab
 Libraries: Pandas, NumPy, Scikit-learn, Keras, TensorFlow, Scikeras, Matplotlib, Seaborn
 
 
-
-Scikit-learn documentation: https://scikit-learn.org
