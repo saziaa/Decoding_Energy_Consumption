@@ -1,6 +1,5 @@
 ## **Decoding Energy Consumption: ML Predictions & Model Comparison in East Melbourne WWTP**
 
-Repository: GitHub Link
 
 📌  **Project Overview**
 
